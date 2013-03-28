@@ -13,5 +13,6 @@ but added in the condition to join the network if it already exists.
 
 ##Bugs
 
-If Wi-Fi is turned of on your system, it won't join an existing network correctly.
-No password support on joining an existing Wi-Fi
+1. If Wi-Fi is turned of on your system, it won't join an existing network correctly.
+2. No password support on joining an existing Wi-Fi
+3. And surely many more...
