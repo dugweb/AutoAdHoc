@@ -11,6 +11,7 @@ but added in the condition to join the network if it already exists.
 
   If a device joins an ad hoc network, and then the creater of that network disconnects, the adhoc network still exists. So if the Mac Mini tried to recreate the wireless network on startup it would cause an error, which would require a monitor & keyboard to fix. This makes it a little more reliable to access the Mac Mini.
 
-Bugs
+##Bugs
+
 If Wi-Fi is turned of on your system, it won't join an existing network correctly.
 No password support on joining an existing Wi-Fi
